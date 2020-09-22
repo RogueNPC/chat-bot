@@ -5,7 +5,7 @@ from random import choice
 #function to generate bot response
 def get_bot_response(user_response):
     #two seperate lists containing all possible responses
-    bot_response_sweet = ["waffles", "pancakes", "french toast", "desert crepe", "cereal", "oatmeal"]
+    bot_response_sweet = ["waffles", "pancakes", "french toast", "dessert crepe", "cereal", "oatmeal"]
     bot_response_savory = ["omlette", "eggs benedict", "hashbrowns", "savory crepe", "sunny-side-up eggs"]
 
     #if else statements to determine and return bot response
