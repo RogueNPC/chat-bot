@@ -1,6 +1,6 @@
 from random import choice
 
-#breakfast bot (based off the wheel of food rng machine)
+#The 24/7 breakfast roulette bot
 
 #function to generate bot response
 def get_bot_response(user_response):
@@ -24,7 +24,7 @@ print('Please enter "sweet" or "savory" for the bot to suggest you a food item o
 user_response = ''
 bot_response = "nothing, you won't eat anything"
 
-#while loop to let bot run until user inputs "stop"
+#while loop to let bot run until user inputs "done"
 while user_response != "done":
     user_response = input('What are you craving?: ')
     #if statements to output specialized lines
