@@ -1,6 +1,4 @@
 # chat-bot
-
-[![Run on Repl.it](https://repl.it/badge/github/RogueNPC/chat-bot)](https://repl.it/github/RogueNPC/chat-bot)
  
 Welcome to the 24/7 breakfast roulette bot! For people who want to eat breakfast, but don't exactly know what they want to eat!
 
